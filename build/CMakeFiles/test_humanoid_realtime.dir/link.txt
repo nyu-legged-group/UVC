@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/test_humanoid_realtime.dir/src/biped.cpp.o  -o ../bin/test_humanoid_realtime  libbiped.a -lode -ldrawstuff -lX11 /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libGLU.so 

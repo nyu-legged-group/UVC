@@ -1,0 +1,6 @@
+threadlocalstorage.lo: threadlocalstorage.cpp /usr/include/stdc-predef.h \
+ ../../include/ou/features.h
+
+/usr/include/stdc-predef.h:
+
+../../include/ou/features.h:
